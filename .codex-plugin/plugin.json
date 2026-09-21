@@ -1,0 +1,11 @@
+{
+  "name": "investor-search",
+  "version": "1.0.1",
+  "description": "Build a sourced list of the investors in any market. Separates real investors from the advisers who sell to them, keeps a source for every field, and says honestly how complete the list is.",
+  "skills": "./skills/",
+  "author": { "name": "Fahad Farooq", "url": "https://github.com/ChainLeo" },
+  "homepage": "https://github.com/ChainLeo/investor-search-plugin-for-chatgpt",
+  "repository": "https://github.com/ChainLeo/investor-search-plugin-for-chatgpt",
+  "license": "MIT-0",
+  "keywords": ["investors", "family-office", "venture-capital", "research", "prospecting", "spreadsheet"]
+}
